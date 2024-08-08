@@ -1,6 +1,6 @@
 # SOWFWARE-KNOWLEDGE
 
-### SOLID Principles
+## SOLID Principles
 
 The SOLID principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. These principles were introduced by Robert C. Martin (also known as Uncle Bob). Here's a detailed look at each principle along with examples to help you understand them better.
 
